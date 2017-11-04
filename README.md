@@ -1,2 +1,2 @@
 # Hockey-Schedule
-Generates and NHL schedule
+Generates an NHL schedule
